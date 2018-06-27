@@ -29,10 +29,11 @@ Follow the instructions on installing Pathogen_ and then:
 
 .. code-block:: shell-session
 
-   $ cd ~/.vim/bundle
+   $ cd ~/.vim/bundle 
    $ git clone https://github.com/hynek/vim-python-pep8-indent.git
 
-Pathogen
+
+supertab
 ^^^^^^^^
 Follow the instructions on installing supertab_ and then:
 .. code-block:: shell-session
